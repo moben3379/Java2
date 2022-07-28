@@ -6,6 +6,10 @@ public class DataToHashSet {
         Set numSet = new HashSet();
         numSet.add("12,45,23,86,100,78,546,1,45,99,136,23");
         System.out.println(numSet);
+        System.out.println(numSet);
+        System.out.println(numSet);
+        System.out.println(numSet);
+        System.out.println(numSet);
 
     }
 }
